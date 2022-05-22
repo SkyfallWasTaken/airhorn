@@ -1,0 +1,15 @@
+{
+    "name": "airhorn",
+    "version": "1.0.0",
+    "description": "The fast mod loader for Microsoft Teams.",
+    "author": "Skyfall",
+    "main": "out.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "Apache-2.0",
+    "devDependencies": {
+        "esbuild": "^0.14.39"
+    }
+}
